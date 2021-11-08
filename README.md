@@ -2,6 +2,7 @@
 
 Angry Nerds Appication that will interact through CRUD(create, read, update, delete) services on a Postgres database.
 
+* [Presentation](https://www.youtube.com/watch?v=lEj-9a_dXOY)
 * [Angery Nerds Frontend](https://github.com/CPSC349-Angry-Nerds/Angery-Nerds-FE)
 * [Angery Nerds Backend](https://github.com/CPSC349-Angry-Nerds/Angry-Nerds-BE)
 
@@ -42,7 +43,7 @@ npm install
 
 ## Running the application
 
-The server can be ran with 
+The application can be ran with 
 ```
 npm start
 ```
